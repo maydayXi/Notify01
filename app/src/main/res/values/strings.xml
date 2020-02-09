@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Notify01</string>
+    <string name="txt_title">Notification01 Panel</string>
+    <string name="txt_basic">BASIC</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="txt_max_priority">Max priority：</string>
+    <string name="btn_basic_preference">Basic Preference</string>
+    <string name="txt_progress">Progress：</string>
+    <string name="txt_bit_picture">Big Picture：</string>
+    <string name="txt_bit_text">Big Text：</string>
+    <string name="txt_inbox">Inbox：</string>
+    <string name="other_preference">Other Preference</string>
+    <string name="big_text">The notification system allows your app to keep the user
+        informed about events, such as new chat messages or a calendar event. Think of
+        notifications as a news channel that alerts the user to important events as they
+        happen or a log that chronicles events while the user is not paying attention.
+    </string>
+</resources>
